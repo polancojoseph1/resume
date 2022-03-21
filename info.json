@@ -1,0 +1,23 @@
+{
+  "name": "Joseph Polanco",
+  "website": "https://polancojoseph1.github.io/",
+  "linkedin": "https://www.linkedin.com/in/joseph-polanco/",
+  "github": "polancojoseph1",
+  "email": "polanco.joseph1@gmail.com",
+  "proficientTechnologies": [
+      "Javascript",
+      "React",
+      "Node",
+      "Express",
+      "Mongodb",
+      "PostgreSQL",
+      "Python",
+      "Django",
+      "Flask"
+  ],
+  "otherSkills": [
+      "Teaching",
+      "Communication",
+      "Languages"
+  ]
+}
